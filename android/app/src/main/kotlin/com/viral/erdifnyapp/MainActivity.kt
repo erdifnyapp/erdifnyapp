@@ -1,4 +1,4 @@
-package com.viral.erdifny
+package com.viral.erdifnyapp
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

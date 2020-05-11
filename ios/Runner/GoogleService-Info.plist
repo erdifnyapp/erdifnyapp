@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>41496493878-mhpbm53rigq34isi88tf72pettrh4bc4.apps.googleusercontent.com</string>
+	<string>3444740641-3ghaukcni2hd0nt1cg4nvomgah60msu1.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.41496493878-mhpbm53rigq34isi88tf72pettrh4bc4</string>
+	<string>com.googleusercontent.apps.3444740641-3ghaukcni2hd0nt1cg4nvomgah60msu1</string>
 	<key>ANDROID_CLIENT_ID</key>
-	<string>41496493878-d24vhtnjsv3c3i052v0n16nf93h3rqop.apps.googleusercontent.com</string>
+	<string>3444740641-9rvik0l2ssjt9k899td31ikkbhbjd747.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCmsq1bO3nQzYDDJcI2fa_tI3D5za0uRFc</string>
+	<string>AIzaSyCsnDNRYWOWrLgxDppIHjzGdJS2P1gKfH4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>41496493878</string>
+	<string>3444740641</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.viral.erdifny</string>
+	<string>com.viral.erdifnyapp</string>
 	<key>PROJECT_ID</key>
-	<string>erdifny-32e46</string>
+	<string>erdifny-a19ba</string>
 	<key>STORAGE_BUCKET</key>
-	<string>erdifny-32e46.appspot.com</string>
+	<string>erdifny-a19ba.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:41496493878:ios:22730fb54fb2ad89a43d97</string>
+	<string>1:3444740641:ios:16be135b96be4031884960</string>
 	<key>DATABASE_URL</key>
-	<string>https://erdifny-32e46.firebaseio.com</string>
+	<string>https://erdifny-a19ba.firebaseio.com</string>
 </dict>
 </plist>

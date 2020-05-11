@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.viral.mechutererdifny</string>
+	<string>com.viral.erdifnyapp</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -58,7 +58,7 @@
 			<array>
 				<!-- TODO Replace this value: -->
 				<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
-				<string>com.googleusercontent.apps.41496493878-mhpbm53rigq34isi88tf72pettrh4bc4</string>
+				<string>com.googleusercontent.apps.3444740641-3ghaukcni2hd0nt1cg4nvomgah60msu1</string>
 			</array>
 		</dict>
 	</array>
