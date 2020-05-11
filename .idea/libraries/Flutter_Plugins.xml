@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+5" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.1" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.1" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.6+1" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/webview_media-0.1.2" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.4.4" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.7" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.7" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+1" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+5" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.1+4" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.4.5" />
+      <root url="file://D:/Android/flutter_window/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.27+1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

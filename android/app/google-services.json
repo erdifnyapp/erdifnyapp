@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41496493878",
+    "firebase_url": "https://erdifny-32e46.firebaseio.com",
+    "project_id": "erdifny-32e46",
+    "storage_bucket": "erdifny-32e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41496493878:android:a11370ef9111f0c3a43d97",
+        "android_client_info": {
+          "package_name": "com.viral.erdifny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41496493878-d24vhtnjsv3c3i052v0n16nf93h3rqop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viral.erdifny",
+            "certificate_hash": "e2998f13d840a4c0548d2e23398a29524b68078c"
+          }
+        },
+        {
+          "client_id": "41496493878-h4abfln4odmbmvr8e8pnsq2s1bfqqe3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHQ5NrtOB0Y2b76IuSkjiYpbrw5ZBKZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41496493878-h4abfln4odmbmvr8e8pnsq2s1bfqqe3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
